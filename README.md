@@ -1,7 +1,6 @@
 # 👩‍💻 Hi there! I'm Ishika Pal 👋
 
-![Developer GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI3ZDA4ZjI0ZDM5ZDI3NzNmMjY4MjE3OTUwYjVlMzM4MzRkZjhlYSZjdD1n/3oKIPwoeGErMmaI43C/giphy.gif)
-
+![Alt text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnAxMnczNG4yajkyeHNvbm9sd2U3azlob2ZocDJhbHN3MWFvaTM4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif)
 🎓 **Final-year ECE (AI) Student | 🐍 Python & Django Enthusiast | 💡 Full Stack Developer | 🤖 AI Explorer**
 
 I love building **scalable, user-centric web applications** and integrating **AI-driven solutions**. From crafting intuitive front-end interfaces to developing robust back-end systems, I aim to create seamless digital experiences that merge technology and creativity.
@@ -53,11 +52,17 @@ An AI-powered educational assistant aimed at enhancing learning experiences thro
 
 ---
 
-## 🔗 Let's Connect
+## 🔗 Let's Connect 😁
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=ko-fi&logoColor=white)](#)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+<a href="https://www.linkedin.com/in/ishikaapal/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" />
+</a>
+
+<a href="https://ishikaapal.github.io/portfolio/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/githubpages.svg" width="30" />
+</a>
+
 
 ---
 
-![Footer GIF](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif)
+![Footer GIF]([https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif](https://tenor.com/dcS31DLdqg9.gif))
