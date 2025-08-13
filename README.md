@@ -1,8 +1,10 @@
 
 Hii 👋, I’m Ishika 
 
-About me 💻
-a full stack developer 👩‍💻 passionate about web technologies and applied AI 🤖. From front-end interfaces ✨ to back-end logic ⚙️, I craft robust, scalable apps powered by Python 🐍 and modern frameworks — always with a creative edge 🎨.
+About me 💻 : 
+
+a full stack developer 👩‍💻 passionate about web technologies and applied AI 🤖. 
+From front-end interfaces ✨ to back-end logic ⚙️, I craft robust, scalable apps powered by Python 🐍 and modern frameworks — always with a creative edge 🎨.
 <!--
 **Ishikaapal/ishikaapal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
