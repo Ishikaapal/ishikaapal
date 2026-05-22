@@ -1,99 +1,112 @@
-# 👩‍💻 Hi there! I'm Ishika Pal 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=70&lines=ISHIKA+PAL;Full-Stack+Engineer;Building+Next-Gen+Web+Architectures" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnAxMnczNG4yajkyeHNvbm9sd2U3azlob2ZocDJhbHN3MWFvaTM4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" alt="Coding GIF" width="400" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🎓 Final-year ECE (AI) Student | 🐍 Python & Django Enthusiast | 💡 Full Stack Developer | 🤖 AI Explorer</h3>
-</div>
-
-<br>
-
-I love building **scalable, user-centric web applications** and integrating **AI-driven solutions**. From crafting intuitive front-end interfaces to developing robust back-end systems, I aim to create seamless digital experiences that merge technology and creativity.
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%">
-        <h3>1. Weekly Muse 🎨</h3>
-        <p>A creative platform designed to inspire and nurture artistic expression through curated prompts and community engagement.</p>
-        <a href="#" target="_blank">🔗 Explore the project</a>
-        <br>
-        <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="Weekly Muse GIF" width="200" />
-      </td>
-      <td width="33%">
-        <h3>2. Portfolio JobPortal 💼</h3>
-        <p>A dynamic job portal integrated into my personal portfolio, showcasing <b>real-time job listings and application features</b>.</p>
-        <a href="#" target="_blank">🔗 Check it out here</a>
-        <br>
-        <img src="https://media.giphy.com/media/xT0BKiaM0QUj7B2NQY/giphy.gif" alt="JobPortal GIF" width="200" />
-      </td>
-      <td width="33%">
-        <h3>3. EduBot 🤖</h3>
-        <p>An AI-powered educational assistant aimed at enhancing learning experiences through <b>interactive Q&A and personalized tutoring</b>.</p>
-        <a href="#" target="_blank">🔗 Learn more</a>
-        <br>
-        <img src="https://media.giphy.com/media/3o6ZsYz8h7sM4XznX2/giphy.gif" alt="EduBot GIF" width="200" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <h4>Frontend</h4>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  </p>
-
-  <h4>Backend</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  </p>
-
-  <h4>Database</h4>
-  <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </p>
-
-  <h4>AI/ML</h4>
-  <p>
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  </p>
-</div>
-
----
-
-## 🔗 Let's Connect 😁
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ishikaapal/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" />
+<p align="center">
+  <a href="https://ishikapal.netlify.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" alt="Portfolio">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://ishikaapal.github.io/portfolio/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/githubpages.svg" alt="Portfolio" width="40" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn">
   </a>
-</div>
+</p>
 
----
+<br />
+
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🚀 Core Stack & Philosophy</h3>
+      <p>
+        I am a Full-Stack Developer specializing in engineering high-performance, visually stunning web ecosystems. My focus lies at the intersection of robust backend concurrency and ultra-fluid, interactive frontend experiences.
+      </p>
+      <p>
+        ⚡ <b>Current Focus:</b> Designing enterprise-grade SaaS platforms, exploring generative architectures, and mastering fluid frontend interactions with micro-animations.
+      </p>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## 🛠️ Engineered Stack
+
+<table width="100%">
+  <tr>
+    <td width="25%" valign="top">
+      <b>Frontend Core</b><br />
+      • React / Next.js<br />
+      • TypeScript<br />
+      • Tailwind CSS<br />
+      • Framer Motion
+    </td>
+    <td width="25%" valign="top">
+      <b>Backend & Data</b><br />
+      • Node.js / Express<br />
+      • MongoDB / Mongoose<br />
+      • REST & WebSockets<br />
+      • Data Concurrency
+    </td>
+    <td width="25%" valign="top">
+      <b>Systems & AI</b><br />
+      • Applied AI / Tooling<br />
+      • Architecture Design<br />
+      • Python / Edge Runtimes
+    </td>
+    <td width="25%" valign="top">
+      <b>DevOps & Tools</b><br />
+      • Git & GitHub CI/CD<br />
+      • Postman / API Testing<br />
+      • UI/UX Motion Design
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## 🏗️ Featured Architectural Implementations
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🌐 Prabodha AKS</h4>
+      <p>A premium wellness ecosystem engineered with fluid high-performance portal architecture and seamless user-state animations.</p>
+      <code>React</code> <code>Tailwind CSS</code> <code>Framer Motion</code>
+    </td>
+    <td width="50%">
+      <h4>🛡️ Swalag Vyapar</h4>
+      <p>A secure B2B SaaS ecosystem meticulously optimized for enterprise-grade data concurrency, security protocols, and operational workflows.</p>
+      <code>MERN Stack</code> <code>Data Concurrency</code> <code>JWT</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>💼 Jobportal</h4>
+      <p>Full-stack employment network featuring advanced multi-tier job filtering, secure token authentication, and instant query pipelines.</p>
+      <code>Node.js</code> <code>MongoDB</code> <code>Express</code>
+    </td>
+    <td width="50%">
+      <h4>🎨 Weekly Muse & Elevare</h4>
+      <p>Innovative creative platforms and future path-finders leveraging highly reactive layout structures and design consistency.</p>
+      <code>React</code> <code>UI System Design</code>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## 📊 Development Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=9ca3af" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&sideNums=38bdf8&sideLabels=9ca3af&ring=38bdf8&amountColor=ffffff" width="48%" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.herokuapp.com/main?type=waving&color=10b981&height=60&section=footer&bgAnimate=true" width="100%" />
+</p>
